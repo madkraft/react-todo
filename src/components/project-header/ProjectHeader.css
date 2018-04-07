@@ -1,0 +1,14 @@
+
+.project-header {
+  height: 100px;
+  background: plum;
+  display: flex;
+  align-items: flex-end;
+}
+
+.header-title {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}

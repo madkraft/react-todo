@@ -1,0 +1,13 @@
+.list-header {
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.list-item {
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.list-item:hover {
+  background: #eee;
+}
